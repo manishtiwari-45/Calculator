@@ -129,6 +129,23 @@ body {
     color: yellow;
 }
 
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+
+.logo img {
+    width: 120px; 
+    height: 120px; 
+    border-radius: 50%; 
+    border: 2px solid rgb(16, 110, 233); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+
+
 .footer-link {
     text-decoration: none;
     font-size: 1.1em;
